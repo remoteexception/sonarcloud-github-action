@@ -1,4 +1,4 @@
-FROM sonarsource/sonar-scanner-cli:4.7
+FROM dpdhl.css-qhcr-pi.azure.deutschepost.de/dockerhub/sonarsource/sonar-scanner-cli:4.7
 
 LABEL version="0.0.1" \
       repository="https://github.com/sonarsource/sonarcloud-github-action" \
